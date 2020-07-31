@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Zaccharie Ramzi, currently a PhD student working in 3 institutions: Inria in the [Parietal team](https://team.inria.fr/parietal/), Neurospin in the [METRIC team](http://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin/unirs/METRIC.aspx), and the CEA astrophysics department in the [Cosmostat team](http://www.cosmostat.org/).
+
+The topic of my PhD is deep learning for MRI reconstruction. This means I am interested in all things connected to:
+- convex non-smooth optimization
+- computer vision
+- MRI
+- deep learning
+
+I like to write TensorFlow code not only to write neural networks but also to build smaller functionalities.
