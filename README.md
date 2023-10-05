@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Zaccharie Ramzi, a post-doc working with Gabriel Peyre at ENS Ulm.
-Before that, I was a PhD student working in 3 institutions: Inria in the [Parietal team](https://team.inria.fr/parietal/), Neurospin in the [METRIC team](http://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin/unirs/METRIC.aspx), and the CEA astrophysics department in the [Cosmostat team](http://www.cosmostat.org/).
+I am Zaccharie Ramzi, an AI Research Scientist at Meta working on neural interfaces.
+Before that, I was a post-doc working with Gabriel Peyre at ENS Ulm on optimization and implicit deep learning.
+Even before that, I was a PhD student working in 3 institutions: Inria in the [Parietal team](https://team.inria.fr/parietal/), Neurospin in the [METRIC team](http://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin/unirs/METRIC.aspx), and the CEA astrophysics department in the [Cosmostat team](http://www.cosmostat.org/).
 
 The topic of my PhD was deep learning for MRI reconstruction. This made me interested in all things connected to:
 - convex non-smooth optimization
